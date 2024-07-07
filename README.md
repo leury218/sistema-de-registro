@@ -1,1 +1,3 @@
-# sistema-de-registro
+<hi> sistema de registro </hi>
+
+- Estado de proyecto: En construcción.
